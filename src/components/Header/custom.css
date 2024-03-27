@@ -1,0 +1,328 @@
+/* ************************ NAVBAR NAV's Start ************************ */
+
+.custom-box-shadow {
+    transition: box-shadow 0.3s;
+}
+
+.custom-box-shadow:hover {
+    animation: colorChange 3s infinite;
+}
+
+@keyframes colorChange {
+    0% {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    }
+
+    5% {
+        box-shadow: 0 0 10px rgba(25, 25, 25, 0.8);
+    }
+
+    10% {
+        box-shadow: 0 0 10px rgba(50, 50, 50, 0.8);
+    }
+
+    15% {
+        box-shadow: 0 0 10px rgba(75, 75, 75, 0.8);
+    }
+
+    20% {
+        box-shadow: 0 0 10px rgba(100, 100, 100, 0.8);
+    }
+
+    25% {
+        box-shadow: 0 0 10px rgba(125, 125, 125, 0.8);
+    }
+
+    30% {
+        box-shadow: 0 0 10px rgba(150, 150, 150, 0.8);
+    }
+
+    35% {
+        box-shadow: 0 0 10px rgba(175, 175, 175, 0.8);
+    }
+
+    40% {
+        box-shadow: 0 0 10px rgba(200, 200, 200, 0.8);
+    }
+
+    45% {
+        box-shadow: 0 0 10px rgba(228, 228, 228, 0.8);
+    }
+
+    50% {
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    }
+
+    55% {
+        box-shadow: 0 0 10px rgba(228, 228, 228, 0.8);
+    }
+
+    60% {
+        box-shadow: 0 0 10px rgba(200, 200, 200, 0.8);
+    }
+
+    65% {
+        box-shadow: 0 0 10px rgba(175, 175, 175, 0.8);
+    }
+
+    70% {
+        box-shadow: 0 0 10px rgba(150, 150, 150, 0.8);
+    }
+
+    75% {
+        box-shadow: 0 0 10px rgba(125, 125, 125, 0.8);
+    }
+
+    80% {
+        box-shadow: 0 0 10px rgba(100, 100, 100, 0.8);
+    }
+
+    85% {
+        box-shadow: 0 0 10px rgba(75, 75, 75, 0.8);
+    }
+
+    90% {
+        box-shadow: 0 0 10px rgba(50, 50, 50, 0.8);
+    }
+
+    95% {
+        box-shadow: 0 0 10px rgba(25, 25, 25, 0.8);
+    }
+
+    100% {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    }
+}
+
+/* ************************ NAVBAR NAV's End ************************ */
+
+/* ******************* NAVBAR Social Icon's Start ******************* */
+
+.custom-link-linkedin {
+    transition: 0.3s ease-in-out;
+}
+
+.custom-link-linkedin:hover {
+    transform: scale(1.2);
+    background: #0072b1;
+    border-radius: 3px;
+}
+
+.custom-link-github {
+    transition: 0.3s ease-in-out;
+}
+
+.custom-link-github:hover {
+    transform: scale(1.2);
+}
+
+/* ******************** NAVBAR Social Icon's End ******************** */
+
+/* **************** Home Cover Section Button Start ***************** */
+
+.custom-button-homecoversection {
+    transition: 0.3s ease-in-out;
+}
+
+.custom-button-homecoversection:hover {
+    transform: scale(1);
+    border-color: #000;
+    background: rgb(219, 219, 219);
+    color: #000;
+}
+
+/* ***************** Home Cover Section Button End ****************** */
+
+/* ****************** Image Hover Start ******************* */
+
+.custom-hover-image {
+    transition: box-shadow 0.3s;
+}
+
+.custom-hover-image:hover {
+    animation: colorChangeRecentPosts 3s infinite;
+}
+
+@keyframes colorChangeRecentPosts {
+    0% {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    }
+
+    5% {
+        box-shadow: 0 0 10px rgba(25, 25, 25, 0.8);
+    }
+
+    10% {
+        box-shadow: 0 0 10px rgba(50, 50, 50, 0.8);
+    }
+
+    15% {
+        box-shadow: 0 0 10px rgba(75, 75, 75, 0.8);
+    }
+
+    20% {
+        box-shadow: 0 0 10px rgba(100, 100, 100, 0.8);
+    }
+
+    25% {
+        box-shadow: 0 0 10px rgba(125, 125, 125, 0.8);
+    }
+
+    30% {
+        box-shadow: 0 0 10px rgba(150, 150, 150, 0.8);
+    }
+
+    35% {
+        box-shadow: 0 0 10px rgba(175, 175, 175, 0.8);
+    }
+
+    40% {
+        box-shadow: 0 0 10px rgba(200, 200, 200, 0.8);
+    }
+
+    45% {
+        box-shadow: 0 0 10px rgba(228, 228, 228, 0.8);
+    }
+
+    50% {
+        box-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+    }
+
+    55% {
+        box-shadow: 0 0 10px rgba(228, 228, 228, 0.8);
+    }
+
+    60% {
+        box-shadow: 0 0 10px rgba(200, 200, 200, 0.8);
+    }
+
+    65% {
+        box-shadow: 0 0 10px rgba(175, 175, 175, 0.8);
+    }
+
+    70% {
+        box-shadow: 0 0 10px rgba(150, 150, 150, 0.8);
+    }
+
+    75% {
+        box-shadow: 0 0 10px rgba(125, 125, 125, 0.8);
+    }
+
+    80% {
+        box-shadow: 0 0 10px rgba(100, 100, 100, 0.8);
+    }
+
+    85% {
+        box-shadow: 0 0 10px rgba(75, 75, 75, 0.8);
+    }
+
+    90% {
+        box-shadow: 0 0 10px rgba(50, 50, 50, 0.8);
+    }
+
+    95% {
+        box-shadow: 0 0 10px rgba(25, 25, 25, 0.8);
+    }
+
+    100% {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    }
+}
+
+/* ****************** Image Hover End ******************* */
+
+/* ****************** Recent Posts Section Start ******************* */
+
+.view-all-button {
+    display: inline-flex;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+    background: rgb(22, 22, 22);
+    color: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-out;
+    overflow: hidden;
+    position: relative;
+}
+
+.view-all-button:hover {
+    width: 110px;
+}
+
+.view-all-button .icon-view-all {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 10px;
+    transition: transform 0.3s ease-out;
+}
+
+.view-all-button:hover .icon-view-all {
+    transform: translateX(0);
+}
+
+.view-all-button:hover .span-view-all {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.icon-view-all-eye {
+    font-size: 18px;
+}
+
+.span-view-all {
+    display: inline-block;
+    opacity: 0;
+    transform: translateY(20px);
+    margin-left: 5px;
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+}
+
+.view-all-button .span-view-all {
+    display: inline-block;
+    opacity: 0;
+    transform: translateY(20px);
+    margin-left: 5px;
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+}
+
+@media screen and (max-width: 480px) {
+    .view-all-button {
+        height: 30px;
+        width: 30px;
+    }
+
+    .view-all-button:hover {
+        width: 100px;
+    }
+
+    .view-all-button .icon-view-all {
+        padding-left: 6.5px;
+    }
+
+    .icon-view-all-eye {
+        font-size: 16px;
+    }
+
+    .view-all-button .span-view-all {
+        font-size: 13px;
+    }
+}
+
+/* ******************* Recent Posts Section End ******************** */
+
+/* ********************** Contact Form Start *********************** */
+
+.custom-contact-button {
+    transition: 0.3s all ease;
+}
+
+.custom-contact-button:hover {
+    background-color: #000;
+    color: #fff;
+}
+
+/* ********************** Contact Form End *********************** */

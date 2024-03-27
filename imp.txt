@@ -1,0 +1,6 @@
+If I want to sue any react component for blog, make sure I import that in mdx component too.
+
+to run site: npm run dev (for development server), npm run start (for fast server..)
+
+supabase to store views
+Database password ( supabase ) => fdxC0fWQs66vYKeA
